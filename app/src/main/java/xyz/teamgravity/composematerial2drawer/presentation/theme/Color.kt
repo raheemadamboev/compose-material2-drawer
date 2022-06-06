@@ -1,4 +1,4 @@
-package xyz.teamgravity.composematerial2drawer.ui.theme
+package xyz.teamgravity.composematerial2drawer.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
